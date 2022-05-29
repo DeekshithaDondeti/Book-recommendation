@@ -34,4 +34,5 @@ https://www.kaggle.com/datasets/nguyenphd/goodreads-best-books-ever-with-recomme
 After running the pkl files in the jupyter notebook we have to copy paste them in app.py file before running the terminal
 
 ## Video link:
+
 https://drive.google.com/file/d/12hxjQF-vkQspETkx1BIfmFJmXBLuune0/view?usp=drivesdk
