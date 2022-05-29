@@ -27,7 +27,7 @@ A content based recommendation engine where it recommends books to the user base
 
 ## Dataset
 
-https://www.kaggle.com/datasets/nguyenphd/goodreads-best-books-ever-with-recommendations
+https://drive.google.com/file/d/1VHVoXvVZX8JxU4SiXJGKy4Qen-cm364o/view?usp=drivesdk
 
 
 ### Note
