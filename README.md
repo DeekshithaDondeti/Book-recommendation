@@ -34,5 +34,4 @@ https://drive.google.com/file/d/1VHVoXvVZX8JxU4SiXJGKy4Qen-cm364o/view?usp=drive
 After running the pkl files in the jupyter notebook we have to copy paste them in app.py file before running the terminal
 
 ## Video link:
-
-https://drive.google.com/file/d/12hxjQF-vkQspETkx1BIfmFJmXBLuune0/view?usp=drivesdk
+https://drive.google.com/file/d/1VHVoXvVZX8JxU4SiXJGKy4Qen-cm364o/view?usp=drivesdk
